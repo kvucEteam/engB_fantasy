@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "9QT2bOW5aaA"
+hojde ="320"
+	bredde = "570"
+	length = "1:37"
+	></video>
+
+	<runde
+	timestamp = "48"
+	>
+		<spm
+		tekst="What do we call the two different narrators we can use?"
+		korrekt ="0"
+		>
+			<svar value="The first person and the third person narrator"/>
+			<svar value="The teacher and the student"/>
+		</spm>
+
+		<spm
+		tekst="When the author uses the first person narrator..... "
+		korrekt ="0"
+		>
+			<svar value="We only get to know what the narrator knows"/>
+			<svar value="We get to know everybody’s feelings and thoughts"/>
+		</spm>
+	</runde>
+
+		<runde
+	timestamp = "95"
+		>
+		<spm
+		tekst="About an omniscient narrator we can say that he/she... "
+		korrekt ="1"
+		>
+			<svar value="only tells us what the protagonist knows?"/>
+			<svar value="knows everything about the characters?"/>
+		</spm>
+
+		<spm
+		tekst="The most common narrator to use is..."
+		korrekt ="1"
+		>
+			<svar value="The first person narrator"/>
+			<svar value="The third person narrator"/>
+		</spm>
+	</runde>
+</wrap>

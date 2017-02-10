@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "8QuaPm7FHR4"
+hojde ="320"
+	bredde = "570"
+	length = "2:11"
+	></video>
+
+	<runde
+	timestamp = "129"
+	>
+		<spm
+		tekst="People in fiction are called..."
+		korrekt ="1"
+		>
+			<svar value="Mugglers"/>
+			<svar value="Characters"/>
+		</spm>
+
+		<spm
+		tekst="When making a characterization you must include..."
+		korrekt ="0"
+		>
+			<svar value="name, age, looks, age, nationality, job, social status, interests"/>
+			<svar value="your own opinion of the character"/>
+		</spm>
+	</runde>
+</wrap>

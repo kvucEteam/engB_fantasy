@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "_BWv9stA6ok"
+hojde ="320"
+	bredde = "570"
+	length = "5:43"
+	></video>
+	<runde
+	timestamp = "133"
+	>
+		<spm
+		tekst="Is an archetype..."
+		korrekt ="2"
+		>
+			<svar value="always the main character in a story?"/>
+			<svar value="always a positive character in a story?"/>
+			<svar value="always able to awaken an important psychological potential in the reader?"/>					
+		</spm>
+	</runde>
+	
+	<runde
+	timestamp = "174"
+	>
+
+		<spm
+		tekst="Is an archetypal hero..."
+		korrekt ="1"
+		>
+			<svar value="strong and powerful from the very beginning?"/>
+			<svar value="growing ever stronger by overcoming difficulties on his way?"/>
+			<svar value="always rescuing the heroine of a story?"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "206"
+	>
+		<spm
+		tekst="Is an archetypal wise old man....."
+		korrekt ="1"
+		>
+			<svar value="always the hero´s father?"/>
+			<svar value="always the hero´s helper?"/>
+			<svar value="always physically weak and frail?"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "238"
+	>
+		<spm
+		tekst="Is an archetypal goddess...."
+		korrekt ="0"
+		>
+			<svar value="knowledgable about what goes on in the minds and souls of others?"/>
+			<svar value="always residing in a forest?"/>
+			<svar value="an avenging angel?"/>
+		</spm>
+	</runde>
+
+<runde
+	timestamp = "298"
+	>
+		<spm
+		tekst="Is an archetypal shadow...."
+		korrekt ="1"
+		>
+			<svar value="a cool and pleasant place?"/>
+			<svar value="a sort of negative version of one of the positive characters?"/>
+			<svar value="always weak and pathetic?"/>
+		</spm>
+	</runde>
+
+	<runde
+	timestamp = "341"
+	>
+		<spm
+		tekst="The quiz has ended"
+		korrekt ="0"
+		>
+			<svar value="Click here to see the result."/>
+		</spm>
+	</runde>
+</wrap>

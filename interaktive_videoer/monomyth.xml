@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "JIKmCEkEElI"
+hojde ="320"
+	bredde = "570"
+	length = "4:32"
+	></video>
+	<runde
+	timestamp = "33"
+	>
+		<spm
+
+
+		tekst="Which of the following characteristics is NOT associated with a traditional hero?"
+		korrekt ="2"
+		>
+			<svar value="Brave"/>
+			<svar value="Driven"/>
+			<svar value="Cunning"/>
+			<svar value="Talented"/>
+			<svar value="Smart"/>
+			<svar value="Loyal"/>		
+		</spm>
+	</runde>
+	
+	<runde
+	timestamp = "122"
+	>
+
+		<spm
+		tekst="Who is NOT a protective figure in The Hobbit or Harry Potter?"
+
+		korrekt ="3"
+		>
+			<svar value="Hagrid"/>
+			<svar value="Gandalf"/>
+			<svar value="Dumbledore"/>
+			<svar value="Gollum"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "147"
+	>
+		<spm
+		tekst="What is a threshold?"	
+	
+		korrekt ="0"
+		>
+			<svar value="The boundary between a known and an unknown world"/>
+			<svar value="A dark cave"/>
+			<svar value="The whale’s mouth"/>
+		</spm>
+	</runde>
+	<runde
+	timestamp = "200"
+	>
+		<spm
+		tekst="Do you know the name of the main villain in the Harry Potter books?"
+		korrekt ="1"
+		>
+		<svar value="Hagrid"/>
+			<svar value="Voldemort"/>
+			<svar value="Snape"/>
+			<svar value="Mcgonagall"/>
+			<svar value="Draco"/>
+
+		</spm>
+	</runde>
+
+<runde
+	timestamp = "240"
+	>
+		<spm
+		tekst="Where does the hero go after the end of his adventure?"
+		korrekt ="0"
+		>
+			<svar value="Home"/>
+			<svar value="On a new adventure"/>
+		</spm>
+	</runde>
+
+		<runde
+	timestamp = "270"
+	>
+		<spm
+		tekst="The quiz has ended"
+		korrekt ="0"
+		>
+			<svar value="Click here to see the result."/>
+		</spm>
+	</runde>
+</wrap>

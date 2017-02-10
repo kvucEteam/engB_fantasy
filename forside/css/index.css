@@ -1,0 +1,183 @@
+html
+{
+	background-color: #7F7F7F;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 499.5643863179066px;
+	background-image: none;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -31px;
+	margin-bottom: 62px;
+}
+
+#u147-6
+{
+	z-index: 11;
+	width: 441px;
+	min-height: 130px;
+	font-weight: 400;
+	margin-left: 16px;
+	position: relative;
+}
+
+#u147-2
+{
+	font-size: 30px;
+	font-family: belgrano, serif;
+}
+
+#u147-4
+{
+	font-size: 60px;
+	font-family: glegoo, sans-serif;
+}
+
+#pu141
+{
+	width: 0.01px;
+	left: -86px;
+	top: -9px;
+	margin-bottom: -9px;
+	position: relative;
+}
+
+#u141
+{
+	z-index: 2;
+	width: 1217px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 259px;
+}
+
+#pu130
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u130
+{
+	z-index: 3;
+	width: 404px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u135
+{
+	z-index: 5;
+	width: 404px;
+	position: relative;
+	margin-right: -10000px;
+	left: 399px;
+}
+
+#u135_img
+{
+	margin-top: -2px;
+	margin-right: -10px;
+	margin-bottom: -2px;
+}
+
+#u138
+{
+	z-index: 7;
+	width: 404px;
+	position: relative;
+	margin-right: -10000px;
+	left: 813px;
+}
+
+#u135_clip,#u138_clip
+{
+	overflow: hidden;
+	width: 404px;
+	height: 126px;
+}
+
+#u138_img
+{
+	margin-left: -16px;
+	margin-right: 15px;
+}
+
+#u142
+{
+	z-index: 9;
+	width: 738px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 102px;
+}
+
+#u142_clip
+{
+	overflow: hidden;
+	width: 738px;
+	height: 509px;
+}
+
+#u142_img
+{
+	margin: -44px -6px 279px 348px;
+}
+
+#u152-9
+{
+	z-index: 17;
+	width: 300px;
+	min-height: 213px;
+	position: relative;
+	margin-right: -10000px;
+	left: 106px;
+}
+
+#u154
+{
+	z-index: 26;
+	width: 526px;
+	height: 231px;
+	-pie-box-shadow: none;
+	-moz-box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 3px 3px 4px -1px rgba(0, 0, 0, 0.2);
+	box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.2);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	opacity: 0.62;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=62)";
+	filter: alpha(opacity=62);
+	position: relative;
+	margin-right: -10000px;
+	left: 460px;
+}
+
+body
+{
+	padding-top: 35px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

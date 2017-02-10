@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+	font-family: Verdana,"Helvetica Neue",sans-serif;
+    font-size: 12px;
+	line-height: 1.7em;
+ }
+
+.fremmedsproggloser,
+.danskegloser,
+.dropzone {
+    width: 262px;
+    height: 25px;
+    float: left;
+    text-align: center;
+    margin: 5px 10px;
+}
+
+.fremmedsproggloser{
+    color: rgb(100,100,100);
+    border: solid 1px rgb(110,110,110);
+}
+
+.dropzone{
+    border: dashed 1px rgb(110,110,110);
+}
+
+.danskegloser {
+    background-color: rgb(245,245,245);
+    cursor: move;
+    border: solid 1px #0B2534;
+    color: #0B2534;
+}
+
+.glosecontainere,
+.fremmedsprogcontainere {
+    margin: 0 auto;
+    width: 574px;
+}
+
+.icon {
+    height: 13px;
+    display: none;
+    margin-left: 5px;
+    vertical-align: -7%;
+}
+
+.move {
+    position: absolute;
+    height: 16px;
+    right: 0;
+    margin: 4px 5px 0 0;
+}
+
+#myslide {
+    width: 584px;
+    overflow: hidden;
+    position: relative;
+    height: 620px;
+}
+
+#myslide .cover {
+    width: 2000px;
+    position: absolute;
+    height: 620px;
+}
+#myslide .runder {
+    height: 620px;
+    width: 584px;
+    float: left;
+}
+
+#button{
+	position: absolute;;
+	bottom: 10px;
+	left:50%;
+	margin-left: -50px;	
+}
+
+.side{
+    display: inline-block;
+    float: left;
+    margin-right: 7px;
+    font-size: 15px;
+    line-height: 2em;
+    font-weight: bold;
+    color: rgb(125,125,125);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; 
+    box-sizing: border-box;
+
+}
+.buttons{
+    background: rgb(125,125,125);
+    padding: 6px;
+    display: block;
+    float: left;
+    margin-right: 7px;
+    height: 19px;
+    width: 19px;
+    text-align: center;
+    border-radius: 15px;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+    line-height: 1.25em;
+    cursor:pointer;
+}
+.active {
+    background: #0B2534;
+    display: block;
+    float: left;
+    outline: none;
+}
+
+.cf:before,
+.cf:after {
+    content:"";
+    display:table;
+}
+
+.cf:after {
+    clear:both;
+}
+
+.cf {
+    *zoom:1;
+}

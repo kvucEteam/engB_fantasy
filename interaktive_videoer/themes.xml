@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "3ZhD2SCq0Mw"
+hojde ="320"
+	bredde = "570"
+	length = "1:46"
+	></video>
+
+	<runde
+	timestamp = "105"
+	>
+		<spm
+		tekst="There is always just one theme to be found?"
+		korrekt ="1"
+		>
+			<svar value="Yes, there is always just one theme. It is defined by the author."/>
+			<svar value="No, there might be several themes. It is up to you, the reader, to define the themes."/>
+		</spm>
+
+		<spm
+		tekst="When you have defined the theme or themes it is a good idea to:"
+		korrekt ="0"
+		>
+			<svar value="Find examples or quotations from the text to prove that the theme is important"/>
+			<svar value="No, it is enough just to state the theme"/>
+		</spm>
+	</runde>
+</wrap>

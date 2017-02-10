@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<wrap>
+	<video
+	videoId = "4lIYv66vKGc"
+hojde ="320"
+	bredde = "570"
+	length = "2:18"
+	></video>
+
+	<runde
+	timestamp = "71"
+	>
+		<spm
+		tekst="To find out when a story takes place you must.... "
+		korrekt ="1"
+		>
+			<svar value="look at the year it was published"/>
+			<svar value="look for clues in the text that indicate the time"/>
+			
+		</spm>
+</runde>
+
+<runde
+	timestamp = "137"
+	>
+
+		<spm
+		tekst="When describing the environment you must use... "
+		korrekt ="0"
+		>
+			<svar value="adjectives to describe it"/>
+			<svar value="a nice drawing of the place"/>
+		</spm>
+	</runde>
+</wrap>
