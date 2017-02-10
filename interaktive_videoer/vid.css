@@ -67,3 +67,7 @@ h3 {
 .forfra {
     cursor:pointer;
 }
+
+#playerContainer{
+    margin-bottom: 350px;
+}

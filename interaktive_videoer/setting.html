@@ -37,7 +37,7 @@
 			<h1>Introduction to Analysis: Setting</h1>
 			<div class="instruction"></div>
             <div class="explanation"></div>
-            <div class="col-xs-12">
+            <div id="playerContainer" class="col-xs-12">
 
 				<!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
 				<div id="player"></div>
@@ -47,15 +47,13 @@
 				</div>
 
 				<div id="time"></div>	
-
-				<div>
-				<script>
-	            	$('.instruction').append(instruction("Watch the interactive video and answer the questions in the video"));
-	            	$('.explanation').append(explanation("This first part of the fantasy course is meant to provide you with basic analytical tools that will help you to analyse a fictional text."));
-	            	one_line_footer();
-            	</script>
-            	</div>
-
 			</div>	
+
+			<script>
+            	$('.instruction').append(instruction("Watch the interactive video and answer the questions in the video"));
+            	$('.explanation').append(explanation("This first part of the fantasy course is meant to provide you with basic analytical tools that will help you to analyse a fictional text."));
+            	one_line_footer();
+        	</script>
+
 	</body>
 </html>
